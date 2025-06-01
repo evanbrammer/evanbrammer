@@ -5,7 +5,7 @@
 <h2>👨‍💻 Projects & Tools:</h2>
 
 - <b>Finance Website: Personal Budget & Finance Dashboard</b>  
-  - [View Project](https://github.com/YourUsername/'insertrepo')  
+  - [View Project](https://github.com/evanbrammer/'Financially Fit')  
   Built with PHP, MySQL, and Chart.js — features budget tracking, login system, and financial data visualization.
 
 
