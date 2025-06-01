@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Evan Brammer! <br/>
+<a href="https://github.com/evanbrammer">Developer</a>, 
+<a href="https://www.linkedin.com/in/evan-brammer-7226732a8/">Linked In</a>, 
+
+<h2>👨‍💻 Projects & Tools:</h2>
+
+- <b>Finance Website: Personal Budget & Finance Dashboard</b>  
+  - [View Project](https://github.com/YourUsername/'insertrepo')  
+  Built with PHP, MySQL, and Chart.js — features budget tracking, login system, and financial data visualization.
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+
+<br/><br/>
+
+[linkedin]: https://www.linkedin.com/in/evan-brammer-7226732a8/
+[github]: https://github.com/evanbrammer
 
 <!--
-**evanbrammer/evanbrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**YourUsername/YourUsername** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+Customize freely to reflect your projects and style!
+--> 
